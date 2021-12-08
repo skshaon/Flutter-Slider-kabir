@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+
+Configure this ====>>>>>>>>>
+
+--no-sound-null-safety
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
