@@ -1,6 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:slider_pro/slider.dart';
+import 'package:slider_pro/all_slider.dart';
+import 'package:slider_pro/carosel_pro.dart';
 
 
 
@@ -23,7 +24,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: CarouselPage(),
+      home: SliderLandingPage(),
     );
   }
 }
